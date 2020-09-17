@@ -1,3 +1,3 @@
 Hello world!
 Hello world again!
-Hello world written directly for browser in gitHub 
+Hello world written directly for browser in GitHub 
